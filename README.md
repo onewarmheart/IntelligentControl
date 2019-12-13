@@ -6,10 +6,10 @@ Intelligent control algorithm and simulation environments.
 **1.Model predictive control**  
 &emsp;(1)Daynamic matrix control  
 &emsp;(2)General Predictive Control  
-2.Reinforcement learning  
+**2.Reinforcement learning**  
 &emsp;(1)DDPG  
 &emsp;(2)PPO  
-3.Iterative learning control  
+**3.Iterative learning control**  
   
 ## Environment:  
 
