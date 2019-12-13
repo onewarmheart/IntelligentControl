@@ -4,7 +4,7 @@ Intelligent control algorithm and simulation environments.
 Algorithm:  
   
 1.Model predictive control  
-&8195;(1)Daynamic matrix control  
+&emsp;(1)Daynamic matrix control  
 &8195;(2)General Predictive Control  
 2.Reinforcement learning  
 &8195;(1)DDPG  
