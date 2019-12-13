@@ -1,5 +1,5 @@
 # IntelligentControl
-Intelligent control algorithm and simulation environments.
+Intelligent control algorithm and simulation environments.(TO DO)
 
 ## Algorithm:  
   
