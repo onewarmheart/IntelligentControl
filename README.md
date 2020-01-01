@@ -5,9 +5,9 @@ Intelligent control algorithm and simulation environments.(TO DO)
   
 **1.Reinforcement learning**  
 &emsp;(1)DDPG  
-&emsp;(2)DDPG+HER
-&emsp;(3)PPO
-&emsp;(4)SAC
+&emsp;(2)DDPG+HER  
+&emsp;(3)PPO  
+&emsp;(4)SAC  
 
 **2.Model predictive control**  
 &emsp;(1)Daynamic matrix control  
