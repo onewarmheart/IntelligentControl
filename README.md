@@ -1,7 +1,7 @@
 # IntelligentControl
 Intelligent control algorithm and simulation environments.(TO DO)  
 
-See the article, follow us on zhihu.com, here is the [special column](https://zhuanlan.zhihu.com/ml-control).  
+To see the articles, follow us on zhihu.com, here is the [special column](https://zhuanlan.zhihu.com/ml-control).  
 
 ## Algorithm:  
   
