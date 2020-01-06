@@ -71,9 +71,8 @@ if __name__ == "__main__":
     
     try:
         run(args, env, agent, ram, env_params)
-    except:
-        # end logging
+    finally:
+		# end logging
         logging.shutdown()
-    else:
         print("Completed!")
 
